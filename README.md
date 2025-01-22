@@ -65,5 +65,4 @@ The project is now fully functional in a **staging environment**. All critical f
 
 ---
 
-## Contact
-For further information or inquiries, you can reach out to the project team at [moizaman905@gmail.com].
+
